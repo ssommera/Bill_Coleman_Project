@@ -198,7 +198,7 @@ MIT License. All public datasets used in accordance with their respective terms 
 ---
 
 <p align="center">
-  <em>For Bill J. Coleman — October 5, 1965 — April 10, 2026</em><br/>
+  <em>For Bill Coleman<br> October 5, 1965 — April 10, 2026</em><br/>
   <em>Step-dad, Star Wars fan, bird watcher, lover of dogs.</em><br/><br/>
   <strong>May the force be with you, Bill</strong>
 </p
